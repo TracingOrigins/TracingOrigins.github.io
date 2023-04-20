@@ -1,4 +1,4 @@
-# 你好
+# 嗨，你好！
 
 这里是刘清钧的个人网站 <https://TracingOrigins.github.io>
 
